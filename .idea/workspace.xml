@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52c1dfe5-a8a6-4d25-836c-caf771f1d50a" name="Changes" comment="Version inicial 1.0">
+    <list default="true" id="52c1dfe5-a8a6-4d25-836c-caf771f1d50a" name="Changes" comment="Creación rama_001_AC">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
